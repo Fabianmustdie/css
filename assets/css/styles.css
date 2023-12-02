@@ -1,5 +1,5 @@
 header {
-    background-image: url("/assets/img/Background.jpg");
+    background-image: url("../img/Background.jpg");
     text-align: center;
     background-position: center;
     background-size: cover;
